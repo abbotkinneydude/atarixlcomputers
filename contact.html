@@ -49,11 +49,13 @@
             </ol>
         </nav>
 
+        <!-- Please note that 'action="php/contact_php_script.php' is non functional as there is no php database linked to this page -->
+
         <div class="container">
             <div class="row">
               <div class="col-md-9 col-md-offset-3">
                 <div class="well well-sm">
-                  <form class="form-horizontal" action="" method="post">
+                  <form class="form-horizontal" action="php/contact_php_script.php" method="post">
                   <fieldset>
                     <legend class="text-left" style="padding-left: 25px;">Contact the ATARI Museum</legend>
             
@@ -83,7 +85,7 @@
 
                     <!-- XL Memory body -->
                     <div class="form-group">
-                      <label class="col-md-9 control-label" for="message">Your first memory of an ATARI computer (optional)</label>
+                      <label class="col-md-9 control-label" for="memory">Your first memory of an ATARI computer (optional)</label>
                       <div class="col-md-9">
                         <textarea class="form-control" id="message" name="message" placeholder="Please enter your first memory of an ATARI computer here... (optional)" rows="5"></textarea>
                       </div>
