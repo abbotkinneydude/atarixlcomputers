@@ -1,11 +1,20 @@
 ## #hw2-responsive-portfolio-bootstrap-atari-xl
 
-<h3>Mobile Responsive Portolio dedicated to the ATARI XL Computers line (Skeleton CSS).</h3>
+<h3>Mobile Responsive Portolio dedicated to the ATARI XL Computers line (Bootstrap CSS).</h3>
 <p>Github Repository Page: https://github.com/palowenstein/hw2-responsive-portfolio-bootstrap-atari-xl</p>
 <p>Github Deployment Page: https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/</p>
 
 ![ATARI XL Computers Museum Page1 (Screenshot)](./images/ucla-hw2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
 ![ATARI XL Computers Museum Page2 (Screenshot)](./images/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
+
+# Table of Contents
+  * [Overview](#Overview:)
+  * [Details](#Details:)
+  * [Code Validation](#CodeValidation:)
+  * [References](#References:)
+  * [License](#License)
+  * [Contact](#Contact)
+
 
 ## Overview:
 <ul>
@@ -47,10 +56,10 @@
 </ul>
 
 ## Code Validation:
-<ol>Semantic HTML / HTML validated:
-        <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/atarixlcomputers/index.html</li>
-        <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/atarixlcomputers/portfolio.html</li>
-        <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/atarixlcomputers/contact.html</li>
+<ol>
+        <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/index.html</li>
+        <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/portfolio.html</li>
+        <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/contact.html</li>
 </ol>
 
 ## References:
