@@ -4,8 +4,8 @@
 <p>Github Repository Page: https://github.com/palowenstein/hw2-responsive-portfolio-bootstrap-atari-xl</p>
 <p>Github Deployment Page: https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/</p>
 
-![ATARI XL Computers Museum Page1 (Screenshot)](./assets/images/ucla-hw2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
-![ATARI XL Computers Museum Page2 (Screenshot)](./assets/images/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
+![ATARI XL Computers Museum Page1 (Screenshot)](./images/ucla-hw2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
+![ATARI XL Computers Museum Page2 (Screenshot)](./images/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
 
 ## Overview:
 <ul>
