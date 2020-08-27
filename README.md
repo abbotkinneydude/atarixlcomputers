@@ -4,8 +4,8 @@
 <p>Github Repository Page: https://github.com/palowenstein/hw2-responsive-portfolio-bootstrap-atari-xl</p>
 <p>Github Deployment Page: https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/</p>
 
-![ATARI XL Computers Museum Page1 (Screenshot)](./assets/img/ucla-hw2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
-![ATARI XL Computers Museum Page2 (Screenshot)](./assets/img/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
+![ATARI XL Computers Museum Page1 (Screenshot)](./assets/images/ucla-hw2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
+![ATARI XL Computers Museum Page2 (Screenshot)](./assets/images/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
 
 ## Overview:
 <ul>
@@ -34,7 +34,7 @@
         <li>Custom fonts (futura, classic ATARI coin-up font).</li>
         <li>Breadcrumb indicator.</li>
         <li>Jumbotron on main page with css background-img.</li>
-        <li>3 @media queries:
+        <li>Three respective @media queries:
                 <ol>
                 <li>To disable the sidebar on mobile devices (991px break point due to Chrome dev tools),</li>
                 <li>Float: none to disallow text surrounding images on small devices (standard breakpoint: 960px),</li>
@@ -43,13 +43,15 @@
         <li>
         <li>Sticky footer.</li>
         </ul>
-    
+
+</ul>
+
 ## Code Validation:
-    <ol>Semantic HTML / HTML validated:
+<ol>Semantic HTML / HTML validated:
         <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/atarixlcomputers/index.html</li>
         <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/atarixlcomputers/portfolio.html</li>
         <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/atarixlcomputers/contact.html</li>
-    </ol>
+</ol>
 
 ## References:
 <ul>
