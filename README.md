@@ -4,10 +4,8 @@
 <p>Github Repository Page: https://github.com/palowenstein/hw2-responsive-portfolio-bootstrap-atari-xl</p>
 <p>Github Deployment Page: https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/</p>
 
-![ATARI XL Computers Museum Page1 (Screenshot)](./images/ucla-hw2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
-![ATARI XL Computers Museum Page2 (Screenshot)](./images/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
-
 # Table of Contents
+  * [Screenshots](#Screenshots)
   * [Overview](#Overview)
   * [Details](#Details)
   * [Code Validation](#Validation)
@@ -15,15 +13,18 @@
   * [License](#License)
   * [Contact](#Contact)
 
+## Screenshots
+![ATARI XL Computers Museum Page1 (Screenshot)](./images/ucla-hw2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
+![ATARI XL Computers Museum Page2 (Screenshot)](./images/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
 
-## Overview:
+## Overview
 <ul>
 <li>Mobile responsive portfolio dedicated to the classic ATARI XL Computers line</li>
 <li>Comprised of 3 pages: Index, Portfolio, Contact.</li>
 <li>Built with Bootstrap</li>
 </ul>
 
-## Details:
+## Details
 <ul>
 
 <li>Porfolio requires the use of 3 stylesheets to initialize:
@@ -55,14 +56,14 @@
 
 </ul>
 
-## Validation:
+## Validation
 <ol>
         <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/index.html</li>
         <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/portfolio.html</li>
         <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/contact.html</li>
 </ol>
 
-## References:
+## References
 <ul>
 <li>Bootstrap CSS Library [https://getbootstrap.com/]</li>
 </ul>
