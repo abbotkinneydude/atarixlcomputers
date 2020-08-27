@@ -50,7 +50,7 @@
                 <li>Float: none to disallow text surrounding images on small devices (standard breakpoint: 960px),</li>
                 <li>Extra footer padding on small devices (standard breakpoint: 768px).</li>
                 </ol>
-        <li>
+        </li>
         <li>Sticky footer.</li>
         </ul>
 
