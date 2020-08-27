@@ -8,10 +8,10 @@
 ![ATARI XL Computers Museum Page2 (Screenshot)](./images/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
 
 # Table of Contents
-  * [Overview](#Overview:)
-  * [Details](#Details:)
-  * [Code Validation](#CodeValidation:)
-  * [References](#References:)
+  * [Overview](#Overview)
+  * [Details](#Details)
+  * [Code Validation](#Validation)
+  * [References](#References)
   * [License](#License)
   * [Contact](#Contact)
 
@@ -55,7 +55,7 @@
 
 </ul>
 
-## Code Validation:
+## Validation:
 <ol>
         <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/index.html</li>
         <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/portfolio.html</li>
