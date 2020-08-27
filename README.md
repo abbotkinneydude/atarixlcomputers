@@ -1,48 +1,69 @@
-Note: I did a force push (600xl-lowercase-extension) and lost my previous read.md file.
+## #hw2-responsive-portfolio-bootstrap-atari-xl
 
-I am rewriting this description based on my memories at the time of submission.
+<h3>Mobile Responsive Portolio dedicated to the ATARI XL Computers line (Skeleton CSS).</h3>
+<p>Github Repository Page: https://github.com/palowenstein/hw2-responsive-portfolio-bootstrap-atari-xl</p>
+<p>Github Deployment Page: https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/</p>
 
-# atarixlcomputers
-Homework #2 — ATARI XL Computers Line Museum Page
+![ATARI XL Computers Museum Page1 (Screenshot)](./assets/img/ucla-hw2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
+![ATARI XL Computers Museum Page2 (Screenshot)](./assets/img/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
 
- Mobile Responsive Portfolio — ATARI XL Computers Line Museum Page
+## Overview:
+<ul>
+<li>Mobile responsive portfolio dedicated to the classic ATARI XL Computers line</li>
+<li>Comprised of 3 pages: Index, Portfolio, Contact.</li>
+<li>Built with Bootstrap</li>
+</ul>
 
-• Built with Bootstrap.
+## Details:
+<ul>
 
-• Comprised of 3 pages: index, portfolio, contact.
+<li>Porfolio requires the use of 3 stylesheets to initialize:
+        <ol>
+        <li>CSS Reset,</li>
+        <li>Bootstrap CDN,</li>
+        <li>Custom CSS.</li>
+        </ol>
+</li>
 
-• 3 Stylesheets: 1) CSS Reset, 2) Bootstrap CDN, 3) Custom CSS.
+<li>Boostrap functionalities:
+        <ul>
+        <li>Responsive layout and images.</li>
+        <li>Custom navbar with logo, page indicator, linkage to every page.</li>
+        <li>Boxed at 1140 px for central presentation on large screens.</li>
+        <li>Grid system: 9/3 (index), 4/4/4 (portfolio), 9/3, 12 for submit button (contact).</li>
+        <li>Custom fonts (futura, classic ATARI coin-up font).</li>
+        <li>Breadcrumb indicator.</li>
+        <li>Jumbotron on main page with css background-img.</li>
+        <li>3 @media queries:
+                <ol>
+                <li>To disable the sidebar on mobile devices (991px break point due to Chrome dev tools),</li>
+                <li>Float: none to disallow text surrounding images on small devices (standard breakpoint: 960px),</li>
+                <li>Extra footer padding on small devices (standard breakpoint: 768px).</li>
+                </ol>
+        <li>
+        <li>Sticky footer.</li>
+        </ul>
+    
+## Code Validation:
+    <ol>Semantic HTML / HTML validated:
+        <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/atarixlcomputers/index.html</li>
+        <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/atarixlcomputers/portfolio.html</li>
+        <li>https://validator.w3.org/nu/?doc=https://palowenstein.github.io/atarixlcomputers/contact.html</li>
+    </ol>
 
-• Boostrap functionalities:
+## References:
+<ul>
+<li>Bootstrap CSS Library [https://getbootstrap.com/]</li>
+</ul>
 
-    - responsive layout and images.
-    
-    - custom navbar with logo, page indicator, linkage to every page.
-    
-    - boxed at 1140 px for central presentation on large screens.
-    
-    - grid system: 9/3 (index), 4/4/4 (portfolio), 9/3, 12 for submit button (contact).
-    
-    - custom fonts (futura, classic ATARI coin-up font).
-    
-    - breadcrumb indicator.
-    
-    - jumbotron on main page with css bg-background.
-    
-    - 3 @media queries:
-    
-            1) to disable the sidebar on mobile devices (991px break point due to Chrome dev tools),
-            
-            2) float: none to disallow text surrounding images on small devices (standard breakpoint: 960px),
-            
-            3) extra footer padding on small devices (standard breakpoint: 768px).
-            
-    - Sticky footer.
-    
-    - semantic html / html validated:
-    
-            1) https://validator.w3.org/nu/?doc=https://abbotkinneydude.github.io/atarixlcomputers/index.html
-            
-            2) https://validator.w3.org/nu/?doc=https://abbotkinneydude.github.io/atarixlcomputers/portfolio.html
-            
-            3) https://validator.w3.org/nu/?doc=https://abbotkinneydude.github.io/atarixlcomputers/contact.html
+ ## License
+<p>
+<a href="./MITlicense.txt">MIT License</a> | Copyright © [2020] Pierre André Lowenstein
+</p>
+
+ ## Contact
+<p>
+<a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
+&nbsp;|&nbsp;
+<a href="mailto:soundtrackspecialist@gmail.com" title="Courriel">Send me a 'courriel'</a>
+</p>
