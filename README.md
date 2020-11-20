@@ -68,12 +68,12 @@
 <li>Bootstrap CSS Library [https://getbootstrap.com/]</li>
 </ul>
 
- ## License
+## License
 <p>
 <a href="./MITlicense.txt">MIT License</a> | Copyright © [2020] Pierre André Lowenstein
 </p>
 
- ## Contact
+## Contact
 <p>
 <a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
