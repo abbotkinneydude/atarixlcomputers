@@ -1,8 +1,8 @@
 ## #hw2-responsive-portfolio-bootstrap-atari-xl
 
 <h3>Mobile Responsive Portolio dedicated to the ATARI XL Computers line (Bootstrap CSS).</h3>
-<p>Github Repository Page: https://github.com/palowenstein/hw2-responsive-portfolio-bootstrap-atari-xl</p>
-<p>Github Deployment Page: https://palowenstein.github.io/hw2-responsive-portfolio-bootstrap-atari-xl/</p>
+<p>Github Repository Page: https://github.com/palowenstein/responsive-portfolio-bootstrap-atari-xl</p>
+<p>Github Deployment Page: https://palowenstein.github.io/responsive-portfolio-bootstrap-atari-xl/</p>
 
 # Table of Contents
   * [Screenshots](#Screenshots)
@@ -68,12 +68,12 @@
 <li>Bootstrap CSS Library [https://getbootstrap.com/]</li>
 </ul>
 
- ## License
+## License
 <p>
 <a href="./MITlicense.txt">MIT License</a> | Copyright © [2020] Pierre André Lowenstein
 </p>
 
- ## Contact
+## Contact
 <p>
 <a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
