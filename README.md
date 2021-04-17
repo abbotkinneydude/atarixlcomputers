@@ -1,4 +1,4 @@
-## #hw2-responsive-portfolio-bootstrap-atari-xl
+## #2-responsive-portfolio-bootstrap-atari-xl
 
 <h3>Mobile Responsive Portolio dedicated to the ATARI XL Computers line (Bootstrap CSS).</h3>
 <p>Github Repository Page: https://github.com/palowenstein/responsive-portfolio-bootstrap-atari-xl</p>
@@ -14,14 +14,14 @@
   * [Contact](#Contact)
 
 ## Screenshots
-![ATARI XL Computers Museum Page1 (Screenshot)](./images/ucla-hw2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
-![ATARI XL Computers Museum Page2 (Screenshot)](./images/ucla-hw2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
+![ATARI XL Computers Museum Page1 (Screenshot)](./demo_assets/2-atari-museum-1.jpg?raw=true "ATARI XL Computers Museum Page1 (Screenshot)")
+![ATARI XL Computers Museum Page2 (Screenshot)](./demo_assets/2-atari-museum-2+3.jpg?raw=true "ATARI XL Computers Museum Page2 (Screenshot)")
 
 ## Overview
 <ul>
-<li>Mobile responsive portfolio dedicated to the classic ATARI XL Computers line</li>
+<li>Mobile responsive portfolio dedicated to the classic ATARI XL Computers line.</li>
 <li>Comprised of 3 pages: Index, Portfolio, Contact.</li>
-<li>Built with Bootstrap</li>
+<li>Built with Bootstrap.</li>
 </ul>
 
 ## Details
@@ -29,9 +29,9 @@
 
 <li>Porfolio requires the use of 3 stylesheets to initialize:
         <ol>
-        <li>CSS Reset,</li>
-        <li>Bootstrap CDN,</li>
-        <li>Custom CSS.</li>
+        <li>CSS Reset</li>
+        <li>Bootstrap CDN</li>
+        <li>Custom CSS</li>
         </ol>
 </li>
 
@@ -75,7 +75,7 @@
 
 ## Contact
 <p>
-<a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
+<a href="https://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
-<a href="mailto:soundtrackspecialist@gmail.com" title="Courriel">Send me a 'courriel'</a>
+<a href="mailto:coder@pierreandrelowenstein.com" title="Courriel">Send me a 'courriel'</a>
 </p>
